@@ -1,13 +1,12 @@
 # 👋 Olá, eu sou o Thalis Cleiton Sousa Cruz
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-
  **Desenvolvedor Full Stack em formação**
 📚 Estudante de **Análise e Desenvolvimento de Sistemas - FIAP**
 💡 Técnico em **Desenvolvimento de Sistemas - ETEC**
 🚀 Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções digitais completas.
 
 ---
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
 ## 💻 Tecnologias & Ferramentas
 
