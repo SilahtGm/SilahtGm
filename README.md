@@ -62,14 +62,13 @@ Gosto de desafios que me fazem evoluir, aprender novas linguagens e aprimorar mi
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SilahtGm&theme=radical" />
 </p>
 
-<p align="center">
+
 <!-- Links sociais com ícones -->
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silahtgm/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcsc18)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaliscleitonsousacruz@gmail.com)
 
-<br>
+
 <!-- GIF no final -->
 ![Footer GIF](https://camo.githubusercontent.com/493acf8e8ff8a8344398d11ff76470656d2896f279180d2af0453adfcd79dcf9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d334243344431266865696768743d3132302673656374696f6e3d666f6f746572)
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilahtGm&layout=compact&theme=radical" />
