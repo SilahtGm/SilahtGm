@@ -6,7 +6,6 @@
 🚀 Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções digitais completas.
 
 ---
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
 ## 💻 Tecnologias & Ferramentas
 
@@ -69,13 +68,12 @@ Gosto de desafios que me fazem evoluir, aprender novas linguagens e aprimorar mi
 <!-- GIF no final -->
 ![Footer GIF](https://camo.githubusercontent.com/493acf8e8ff8a8344398d11ff76470656d2896f279180d2af0453adfcd79dcf9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d334243344431266865696768743d3132302673656374696f6e3d666f6f746572)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilahtGm&layout=compact&theme=radical"  heigth="100%" />
-</p>
+
 
 ---
 
 ## ✨ Curiosidade
 
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 > "Desenvolver não é apenas escrever código, é **criar experiências**."
 > — Thalis Cleiton Sousa Cruz
