@@ -33,18 +33,23 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor apaixonado por resolver problemas e aprender novas tecnologias.
-Gosto de unir **design e lógica**, criando soluções completas, escaláveis e com foco na experiência do usuário.
+Sou um desenvolvedor Full Stack em formação, completamente apaixonado por tecnologia e por transformar ideias em soluções reais e eficazes.
+Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP e Desenvolvimento de Sistemas na ETEC, unindo teoria sólida e prática constante em projetos pessoais e acadêmicos.
 
-🧠 Atualmente explorando o ecossistema **Java, React e Python**
-💬 Acredito que a melhor forma de aprender é **construindo e compartilhando conhecimento**
-🌱 Em constante evolução — “**Code, learn, repeat.**”
+Tenho como foco construir aplicações modernas, responsivas e funcionais, integrando o front-end criativo com o back-end eficiente.
+Gosto de desafios que me fazem evoluir, aprender novas linguagens e aprimorar minha lógica de programação.
+
+💡 Acredito que desenvolvimento vai além do código — é sobre resolver problemas, criar impacto e nunca parar de aprender.
+
+🧠 Explorando o ecossistema Java | React | Python | MySQL
+🤝 Sempre aberto a colaborar e trocar conhecimento com outros desenvolvedores
+🚀 Em constante evolução: "Aprender, criar, evoluir — todos os dias."
 
 ---
 
 ## 🌐 Onde me encontrar
 
-📫 **Email:** [thaliscleitonsousacruz@gmail.com](mailto:thaliscleitonsousacruz@gmail.com)
+📫 **Email Profissional:** [thaliscleitonsousacruz@gmail.com](mailto:thaliscleitonsousacruz@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/tcsc18](https://www.linkedin.com/in/tcsc18)
 💻 **Portfólio:** [silahtgm.github.io/thalisportfolio](https://silahtgm.github.io/thalisportfolio)
 
