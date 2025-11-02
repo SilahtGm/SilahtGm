@@ -39,7 +39,7 @@ Gosto de desafios que me fazem evoluir, aprender novas linguagens e aprimorar mi
 
 💡 Acredito que desenvolvimento vai além do código — é sobre resolver problemas, criar impacto e nunca parar de aprender.
 
-🧠 Explorando o ecossistema Java | React | Python | MySQL
+🧠 Explorando o ecossistema **Java | React | Python | MySQL**
 🤝 Sempre aberto a colaborar e trocar conhecimento com outros desenvolvedores
 🚀 Em constante evolução: "Aprender, criar, evoluir — todos os dias."
 
