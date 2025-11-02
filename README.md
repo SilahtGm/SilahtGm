@@ -64,13 +64,13 @@ Gosto de desafios que me fazem evoluir, aprender novas linguagens e aprimorar mi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilahtGm&layout=compact&theme=radical" />
 </p>
 
+<img align="center" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
 <!-- Links sociais com ícones -->
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silahtgm/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcsc18)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaliscleitonsousacruz@gmail.com)
 
 
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
 ---
 
