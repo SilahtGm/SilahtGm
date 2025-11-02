@@ -60,6 +60,10 @@ Gosto de desafios que me fazem evoluir, aprender novas linguagens e aprimorar mi
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SilahtGm&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilahtGm&layout=compact&theme=radical" />
+</p>
+
 
 <!-- Links sociais com ícones -->
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silahtgm/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcsc18)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaliscleitonsousacruz@gmail.com)
