@@ -86,15 +86,18 @@ Gosto de desafios que me fazem evoluir, aprender novas linguagens e aprimorar mi
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SilahtGm&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SilahtGm&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SilahtGm&show_icons=true&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=SilahtGm&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilahtGm&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SilahtGm&layout=compact&theme=radical" />
 </p>
 
-<img align="center" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+</p>
+
 
 <!-- Links sociais com ícones -->
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silahtgm/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcsc18)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaliscleitonsousacruz@gmail.com)
