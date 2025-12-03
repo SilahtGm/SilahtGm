@@ -86,17 +86,14 @@ Gosto de desafios que me fazem evoluir, aprender novas linguagens e aprimorar mi
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SilahtGm&show_icons=true&theme=radical" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=SilahtGm&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SilahtGm&show_icons=true&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=SilahtGm&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SilahtGm&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilahtGm&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-</p>
 
 
 <!-- Links sociais com ícones -->
