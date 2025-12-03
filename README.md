@@ -2,7 +2,7 @@
 
  **Desenvolvedor Full Stack em formação**
  Estudante de **Análise e Desenvolvimento de Sistemas - FIAP** e
- Técnico em **Desenvolvimento de Sistemas - ETEC**
+ Técnico em **Desenvolvimento de Sistemas - ETEC**.
  Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções digitais completas.
 
 ---
