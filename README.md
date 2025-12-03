@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Thalis Cleiton Sousa Cruz
 
- **Desenvolvedor Full Stack em formação**
+ **Desenvolvedor Back End em formação**
  Estudante de **Análise e Desenvolvimento de Sistemas - FIAP** e
  Técnico em **Desenvolvimento de Sistemas - ETEC**.
  Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções digitais completas.
