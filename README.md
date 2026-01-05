@@ -17,6 +17,13 @@
 
 ---
 
+### 📊 Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-323330?style=for-the-badge&logo=python&logoColor=white)
+![CSV/Excel Processing](https://img.shields.io/badge/CSV/Excel%20Processing-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
 ### ⚙️ Frameworks & Bibliotecas
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Web](https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
