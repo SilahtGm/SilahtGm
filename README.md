@@ -90,18 +90,6 @@ Explorando o ecossistema **Java | SpringBoot | API | SQL**
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/SilahtGm">
-  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  </a>
-</p>
-
 
 
 <!-- Links sociais com ícones -->
