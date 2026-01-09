@@ -93,12 +93,13 @@ Explorando o ecossistema **Java | SpringBoot | API | SQL**
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SilahtGm&show_icons=true&theme=radical&hide_border=false" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=SilahtGm&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats-six-rebel.vercel.app/api?username=SilahtGm&show_icons=true&theme=radical" />
+  
+  <img width="48%" src="https://streak-stats.demolab.com?user=SilahtGm&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilahtGm&layout=compact&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=SilahtGm&layout=compact&theme=radical" />
 </p>
 
 
