@@ -103,5 +103,5 @@ Explorando o ecossistema **Java | SpringBoot | API | SQL**
 
 ## ✨ Curiosidade
 
-> "Desenvolver não é apenas escrever código, é **criar experiências**."
+> "Desenvolver não é apenas escrever código, é **criar soluções**."
 > — Thalis Cleiton Sousa Cruz
