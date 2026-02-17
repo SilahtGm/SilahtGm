@@ -85,8 +85,8 @@ Explorando o ecossistema **Java | SpringBoot | API | SQL**
 
 ## 🌐 Onde me encontrar
 
-📫 **Email Profissional:** [thaliscleitonsousacruz@gmail.com](mailto:thaliscleitonsousacruz@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/tcsc18](https://www.linkedin.com/in/tcsc18)
+📫 **Email Profissional:** [thaliscleitonsousacruz@gmail.com](mailto:thaliscleitonsousacruz@gmail.com) <br>
+💼 **LinkedIn:** [linkedin.com/in/tcsc18](https://www.linkedin.com/in/tcsc18) <br>
 💻 **Portfólio:** [silahtgm.github.io/thalisportfolio](https://silahtgm.github.io/thalisportfolio)
 
 ---
