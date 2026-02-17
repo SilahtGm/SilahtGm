@@ -2,8 +2,8 @@
 
  **Desenvolvedor Back End em formação**<br>
  Estudante de **Análise e Desenvolvimento de Sistemas - FIAP**<br>
- Bacharelado em **Engenharia de Software - UNICSUL** <br>
- Técnico em **Desenvolvimento de Sistemas - ETEC** e.<br>
+ Bacharelado em **Engenharia de Software - UNICSUL** e <br>
+ Técnico em **Desenvolvimento de Sistemas - ETEC**<br>
  Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções digitais completas.
 
 ---
