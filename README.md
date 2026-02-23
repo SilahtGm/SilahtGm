@@ -8,6 +8,15 @@
 
 ---
 
+## 🏆 Certificações
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**AWS Certified Cloud Practitioner (CLF-C02)**  
+Certificação oficial que valida conhecimentos fundamentais em Cloud Computing, arquitetura em nuvem, segurança, governança, escalabilidade e modelos de precificação na AWS.
+
+---
+
 ## 🧰 Tech Stack Completo
 
 ### 🖥️ Back-End
@@ -64,7 +73,6 @@
 ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-
 ---
 
 ## 🚀 Sobre mim
@@ -77,7 +85,7 @@ Gosto de desafios que me fazem evoluir, aprender novas linguagens e aprimorar mi
 
 💡 Acredito que desenvolvimento vai além do código — é sobre resolver problemas, criar impacto e nunca parar de aprender.
 
-Explorando o ecossistema **Java | SpringBoot | API | SQL**
+Explorando o ecossistema **Java | SpringBoot | API | SQL | AWS**
 🤝 Sempre aberto a colaborar e trocar conhecimento com outros desenvolvedores
 🚀 Em constante evolução: "Aprender, criar, evoluir — todos os dias."
 
@@ -91,13 +99,9 @@ Explorando o ecossistema **Java | SpringBoot | API | SQL**
 
 ---
 
-
-
-<!-- Links sociais com ícones -->
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silahtgm/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcsc18)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaliscleitonsousacruz@gmail.com)
-
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silahtgm/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcsc18)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaliscleitonsousacruz@gmail.com)
 
 ---
 
