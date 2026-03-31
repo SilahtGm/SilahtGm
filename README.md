@@ -47,6 +47,7 @@ Certificação oficial que valida conhecimentos fundamentais em Cloud Computing,
 ### 📱 Mobile Development
 
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
