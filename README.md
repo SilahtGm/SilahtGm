@@ -34,6 +34,22 @@ Certificação oficial que valida conhecimentos fundamentais em Cloud Computing,
 
 ---
 
+### 🤖 Inteligência Artificial
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LLM](https://img.shields.io/badge/Large%20Language%20Models-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-2ECC71?style=for-the-badge)
+
+---
+
+### 📱 Mobile Development
+
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
 ### ⚙️ Frameworks & Bibliotecas
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Web](https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
